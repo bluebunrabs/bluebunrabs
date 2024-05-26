@@ -1,4 +1,11 @@
-## Hi there 👋
+## ✨ BlueBunRabs ✨
+
+VideoGame Developer for BubbySoft <br>
+
+🎮️ Couch Co-op and 💻️ Online Muliplayer Enthusiast <br>
+
+❤️ 🐈‍⬛️ 🐇️ ❤️
+
 
 <!--
 **bluebunrabs/bluebunrabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

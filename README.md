@@ -6,7 +6,7 @@ A blue bunny rabbit cosplaying as Lead VideoGame Developer for BubbySoft <br>
 
 ❤️ 🐈‍⬛️ 🐇️ ❤️
 
-Currently Playing: FF7: Rebirth
+Currently Playing: FF7 Rebirth
 
 <!--
 **bluebunrabs/bluebunrabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

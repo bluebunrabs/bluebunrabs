@@ -1,6 +1,6 @@
 ## ✨ bluebunrabs ✨
 
-A blue bunny rabbit cosplaying as lead videogame developer for BubbySoft <br>
+A blue bunny rabbit cosplaying as lead developer for BubbySoft <br>
 
 🎮️ couch co-op and 💻️ online muliplayer enthusiast <br>
 
